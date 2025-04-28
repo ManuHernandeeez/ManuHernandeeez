@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.png" alt="Header Image" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Manuel Hernandez</h1>
 <h3 align="center">From El Salvador, coding the future one line at a time.</h3>
 
