@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Kodigo Full Stack Junior**
 
-- 📄 Know about my experiences [www.linkedin.com/in/manuel-alexander-hernandez-560109345](www.linkedin.com/in/manuel-alexander-hernandez-560109345)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/manuel-alexander-hernandez-560109345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manuel-alexander-hernandez-560109345" height="30" width="40" /></a>
